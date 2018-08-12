@@ -1,0 +1,19 @@
+tag v0.15beta
+3516c1defc7e8f760adb0e2bf466f815b0568f7d
+Petr G <varren@gmail.com>
+2016-06-11 04:17:51 +0300
+
+Updates and bugfixes
+
+
+--------------------
+
+Petr G:
+	- metatable fixes
+	- Fix if getmetatable(table).__index type is a function. This will execute it and we dont want such behavor
+	- Fn cals names have args in UI
+	- Added newproxy() fix after bug from DBM
+	- Huge performance boost for function call monitor-logger
+	- README update
+	- Frame name info added. Function call logger will not accept invalid tables. Raw help button added
+	- Function call logger added, cmd refactoring and help update

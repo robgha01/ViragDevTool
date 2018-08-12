@@ -1,0 +1,12 @@
+## Interface: 60200
+## Title: Virag's WoW Dev Tool
+## Author: Varren@AzuregosRU
+## Version: 0.1
+## SavedVariables: ViragDevTool_Settings
+## X-Curse-Packaged-Version: v0.15beta
+## X-Curse-Project-Name: ViragDevTool
+## X-Curse-Project-ID: varrendevtool
+## X-Curse-Repository-ID: wow/varrendevtool/mainline
+ViragDevTool.lua
+ViragDevToolMappings.lua
+ViragDevTool.xml
